@@ -1,0 +1,287 @@
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.exe
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.deps.json
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.runtimeconfig.json
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.dll
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.pdb
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Form1.resources
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.GenerateResource.cache
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfoInputs.cache
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfo.cs
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.CoreCompileInputs.cache
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.dll
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\refint\sigsar.dll
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.pdb
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.genruntimeconfig.cache
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\ref\sigsar.dll
+D:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.exe
+D:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.deps.json
+D:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.runtimeconfig.json
+D:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.dll
+D:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.pdb
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Form1.resources
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.GenerateResource.cache
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.GeneratedMSBuildEditorConfig.editorconfig
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfoInputs.cache
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfo.cs
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.CoreCompileInputs.cache
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.dll
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\refint\sigsar.dll
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.pdb
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.genruntimeconfig.cache
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\ref\sigsar.dll
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Properties.Resources.resources
+D:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormPrincipalAdmin.resources
+F:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.exe
+F:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.deps.json
+F:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.runtimeconfig.json
+F:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.dll
+F:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.pdb
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Form1.resources
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Properties.Resources.resources
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormPrincipalAdmin.resources
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.GenerateResource.cache
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.GeneratedMSBuildEditorConfig.editorconfig
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfoInputs.cache
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfo.cs
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.CoreCompileInputs.cache
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.dll
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\refint\sigsar.dll
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.pdb
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.genruntimeconfig.cache
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\ref\sigsar.dll
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormUsuario.resources
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPrincipalMoza.resources
+F:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormRoles.resources
+E:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.exe
+E:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.deps.json
+E:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.runtimeconfig.json
+E:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.dll
+E:\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.pdb
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Form1.resources
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Properties.Resources.resources
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormPrincipalAdmin.resources
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormRoles.resources
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormUsuario.resources
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPrincipalMoza.resources
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.GenerateResource.cache
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.GeneratedMSBuildEditorConfig.editorconfig
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfoInputs.cache
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfo.cs
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.CoreCompileInputs.cache
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.dll
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\refint\sigsar.dll
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.pdb
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.genruntimeconfig.cache
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\ref\sigsar.dll
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormCategorias.resources
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormProductos.resources
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormReportes.resources
+E:\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormVentas.resources
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Properties.Resources.resources
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormCategorias.resources
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormGestionMesa.resources
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormPrincipalAdmin.resources
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormProductos.resources
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormReportes.resources
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormRoles.resources
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormUsuario.resources
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormVentas.resources
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPrincipalMoza.resources
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.exe
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.deps.json
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.runtimeconfig.json
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.dll
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.pdb
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Form1.resources
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Properties.Resources.resources
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormCategorias.resources
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormGestionMesa.resources
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormPrincipalAdmin.resources
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormProductos.resources
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormReportes.resources
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormRoles.resources
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormUsuario.resources
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormVentas.resources
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPrincipalMoza.resources
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.GenerateResource.cache
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfoInputs.cache
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfo.cs
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.dll
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\refint\sigsar.dll
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.pdb
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.genruntimeconfig.cache
+C:\Users\Propietario\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\ref\sigsar.dll
+C:\Users\usuario23\Desktop\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPedidos.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.exe
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.deps.json
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.runtimeconfig.json
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.pdb
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Npgsql.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.AssemblyReference.cache
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Properties.Resources.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormCategorias.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormGestionMesa.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormPrincipalAdmin.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormProductos.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormReportes.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormRoles.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormUsuario.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormVentas.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPedidos.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPrincipalMoza.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.GenerateResource.cache
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfoInputs.cache
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfo.cs
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.CoreCompileInputs.cache
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.Up2Date
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\refint\sigsar.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.pdb
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.genruntimeconfig.cache
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\ref\sigsar.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.FormPrincipalSigsar.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.caja.FormPrincipalCaja.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.cocinero.FormPrincipalCosinero.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.exe
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.deps.json
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.runtimeconfig.json
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.pdb
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Npgsql.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.AssemblyReference.cache
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.FormPrincipalSigsar.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Properties.Resources.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormCategorias.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormGestionMesa.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormPrincipalAdmin.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormProductos.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormReportes.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormRoles.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormUsuario.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormVentas.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.caja.FormPrincipalCaja.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.cocinero.FormPrincipalCosinero.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPedidos.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPrincipalMoza.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.GenerateResource.cache
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfoInputs.cache
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfo.cs
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.CoreCompileInputs.cache
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.Up2Date
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\refint\sigsar.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.pdb
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.genruntimeconfig.cache
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\ref\sigsar.dll
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.exe
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.deps.json
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.runtimeconfig.json
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.dll
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.pdb
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Npgsql.dll
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.AssemblyReference.cache
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.FormPrincipalSigsar.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Properties.Resources.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormCategorias.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormGestionMesa.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormPrincipalAdmin.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormProductos.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormReportes.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormRoles.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormUsuario.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormVentas.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.caja.FormPrincipalCaja.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.cocinero.FormPrincipalCosinero.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPedidos.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPrincipalMoza.resources
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.GenerateResource.cache
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.GeneratedMSBuildEditorConfig.editorconfig
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfoInputs.cache
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfo.cs
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.CoreCompileInputs.cache
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.Up2Date
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.dll
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\refint\sigsar.dll
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.pdb
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.genruntimeconfig.cache
+D:\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\ref\sigsar.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.exe
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.deps.json
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.runtimeconfig.json
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.pdb
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Npgsql.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.AssemblyReference.cache
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.FormPrincipalSigsar.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Properties.Resources.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormCategorias.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormGestionMesa.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormPrincipalAdmin.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormProductos.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormReportes.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormRoles.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormUsuario.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormVentas.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.caja.FormPrincipalCaja.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.cocinero.FormPrincipalCosinero.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPedidos.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPrincipalMoza.resources
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.GenerateResource.cache
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfoInputs.cache
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfo.cs
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.CoreCompileInputs.cache
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.Up2Date
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\refint\sigsar.dll
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.pdb
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.genruntimeconfig.cache
+F:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\ref\sigsar.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.exe
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.deps.json
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.runtimeconfig.json
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\sigsar.pdb
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\bin\Debug\net10.0-windows\Npgsql.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.AssemblyReference.cache
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.FormPrincipalSigsar.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.Properties.Resources.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormCategorias.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormPrincipalAdmin.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormProductos.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormReportes.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormRoles.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormUsuario.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormVentas.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.caja.FormPrincipalCaja.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.cocinero.FormPrincipalCosinero.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPedidos.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.mozo.FormPrincipalMoza.resources
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.GenerateResource.cache
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfoInputs.cache
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.AssemblyInfo.cs
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.CoreCompileInputs.cache
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.csproj.Up2Date
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\refint\sigsar.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.pdb
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.genruntimeconfig.cache
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\ref\sigsar.dll
+E:\SEMESTRE IV\CURSOS\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\sigsar pueba 15_10_2026\APLICACION 0.3 marron\APLICACION\sigsar\sigsar\obj\Debug\net10.0-windows\sigsar.view.admin.FormMesa.resources

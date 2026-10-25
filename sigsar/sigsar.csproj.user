@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\admin\FormCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\admin\FormGestionMesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\admin\FormPrincipalAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\admin\FormProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\admin\FormReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\admin\FormRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\admin\FormUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\admin\FormVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\caja\FormPrincipalCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\cocinero\FormPrincipalCosinero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\mozo\FormPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\mozo\FormPrincipalMoza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

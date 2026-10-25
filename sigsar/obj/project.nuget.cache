@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y/wHm7j0F7E=",
+  "success": true,
+  "projectFilePath": "E:\\SEMESTRE IV\\CURSOS\\DESARROLLO DE APLICACIONES DE ESCRITORIO ruben cirilo\\sigsar pueba 15_10_2026\\APLICACION 0.3 marron\\APLICACION\\sigsar\\sigsar\\sigsar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Propietario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Propietario\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Propietario\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
